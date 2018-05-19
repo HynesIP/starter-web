@@ -1,7 +1,7 @@
-##Love me!
+## Love me!
 
-###Intro
+### Intro
 
--Happy
--Snappy
--Crappy
+- Happy
+- Snappy
+- Crappy
